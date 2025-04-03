@@ -4,11 +4,11 @@ Number of Video: 105 videos.
 
 | Name | Content | Note |
 | :--- | :--- | :--- |
-| Java01-Java02  | Introduction               | NULL |
-| Java03-Java16  | Basic Syntax               | NULL |
-| Java17-Java20  | Condition Syntax           | NULL |
-| Java21-Java26  | Loop Syntax                | NULL |
-| Java27         | Try-Catch & Array          | NULL |
+| Java01-Java02  | Introduction               | DONE |
+| Java03-Java16  | Basic Syntax               | DONE |
+| Java17-Java20  | Condition Syntax           | DONE |
+| Java21-Java26  | Loop Syntax                | DONE |
+| Java27         | Try-Catch & Array          | DONE |
 | Java28-Java38  | OOP basic                  | NULL |
 | Java39-Java43  | Inheritance & Overloading  | NULL |
 | Java44-Java46  | Abstract & Interface       | NULL |
